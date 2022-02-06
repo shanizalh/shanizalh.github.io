@@ -8,7 +8,7 @@
 
 2. [Project 2 - Cashflow Management Dashboard](https://public.tableau.com/views/CashflowManagementDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
     
-    Skill: Business data analytic, visualization, business intelligence.
+    Skills: Business data analytic, visualization, business intelligence.
     Cashflow Management dashboard which needed to quickly give an overview of corporate cash condition and enable faster decision making for executives. Data engineered to remove confidential data.
 
 ## Side-job Projects:
