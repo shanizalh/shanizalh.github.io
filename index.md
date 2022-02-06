@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Shanizal's Portfolio Projects
+description: Passionate in data analytics and business intelligence
 image: minimalist-1.jpg
 ---
 
