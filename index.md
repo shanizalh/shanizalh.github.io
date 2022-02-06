@@ -1,15 +1,17 @@
 # Portfolio Projects
 
-## Real World Project:
+## Real World Projects:
 1. [Project 1 - Aircraft SGAP Analysis](https://github.com/shanizalh/aircraftsgap)
     
+    Skills: Data extraction, clean & transform, loading (ETL), automatic scripting report, Data Pipeline
     Automated scripting to generate aircraft sgap analysis which is performed daily. Data simplified and engineered to remove confidential data.
 
 2. [Project 2 - Cashflow Management Dashboard](https://public.tableau.com/views/CashflowManagementDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
     
-    Cashflow dashboard which needed to quickly give an overview of corporate cash condition and enable faster decision making for executives. Data engineered to remove confidential data.
+    Skill: Business data analytic, visualization, business intelligence.
+    Cashflow Management dashboard which needed to quickly give an overview of corporate cash condition and enable faster decision making for executives. Data engineered to remove confidential data.
 
-## Fun Project
+## Side-job Projects:
 1. [Project 1 - Profitable Apps](https://github.com/shanizalh/portfolio/blob/master/profitable-app/profitable_app.ipynb)
 
     Skills: Basic Python, data wrangling and analysis.
