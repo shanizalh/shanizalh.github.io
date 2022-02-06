@@ -4,7 +4,7 @@
 1. [Project 1 - Aircraft SGAP Analysis](https://github.com/shanizalh/aircraftsgap)
     
     Skills: Data extraction, clean & transform, loading (ETL), automatic scripting report, Data Pipeline
-    Automated scripting to generate aircraft sgap analysis which is performed daily. Data simplified and engineered to remove confidential data.
+    Automated scripting to generate aircraft sgap analysis which is performed daily. Enabling faster analysis and reducing operational manhours workload. Data simplified and engineered to remove confidential data.
 
 2. [Project 2 - Cashflow Management Dashboard](https://public.tableau.com/views/CashflowManagementDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
     
