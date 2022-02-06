@@ -1,4 +1,11 @@
-# Portfolio Projects
+---
+layout: default
+title: Another page
+description: This is just another page
+image: minimalist-1.jpg
+---
+
+# Shanizal's Portfolio Projects
 
 ## Real World Projects:
 1. [Project 1 - Aircraft SGAP Analysis](https://github.com/shanizalh/aircraftsgap)
